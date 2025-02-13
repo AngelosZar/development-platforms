@@ -1,6 +1,6 @@
 ---
 title: Redis Case Study
-author: Angelos Zaros <AngelosZar>
+author: Tord Åke Larsson <lordaake>, Angelos Zaros <AngelosZar>
 tags: redis, case study, in-memory database, technology, implementation guide
 ---
 
